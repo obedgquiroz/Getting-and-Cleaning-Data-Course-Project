@@ -1,5 +1,5 @@
-## Libro de códigos
-## Descripción de las variables y datos usados en el script.
+## CODE BOOKS 
+## Description of the variables and data used in the script.
 Below I describe the variables and data used in the script, the explanation of which is in README.md.
 
 Note: The images after each variable are the result of applying the str function on each variable, and show a short description about the variable, but in the case of variables that store large amounts of data, only part of the summary.
